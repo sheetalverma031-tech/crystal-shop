@@ -1,0 +1,8 @@
+{
+  "name": "crystal-shop",
+  "version": "1.0.0",
+  "description": "Crystal Haven Online Shop",
+  "dependencies": {
+    "razorpay": "^2.9.2"
+  }
+}
